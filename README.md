@@ -29,12 +29,21 @@ Hi, I am Saurabh.
   </span>
 </p>
 
+
+
 <p align='center'>
 <picture>
-<img src="https://github-readme-stats.vercel.app/api?username=saurabheights&show_icons=true&count_private=true" />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=saurabheights&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=saurabheights&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=saurabheights&show_icons=true" class="img-responsive center-block etc" />
 </picture>
-
-<br>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saurabheights/saurabheights/output/github-contribution-grid-snake-dark.svg" />
