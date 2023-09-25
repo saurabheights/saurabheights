@@ -31,12 +31,8 @@ Hi, I am Saurabh, computer vision engineer from India, residing in Germany.
 <br>
 
 <picture>
-<img src="https://raw.githubusercontent.com/saurabheights/saurabheights/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saurabheights/saurabheights/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saurabheights/saurabheights/output/github-contribution-grid-snake.svg"" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/saurabheights/saurabheights/output/github-contribution-grid-snake.svg"" />
 </picture>
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
