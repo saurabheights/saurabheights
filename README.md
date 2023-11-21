@@ -4,7 +4,7 @@ Hi, I am Saurabh.
 </h1>
 
 <p>
-  I am computer vision engineer from India, residing in Germany.
+  I am a computer vision engineer from India, residing in Germany.
 </p>
 <h2> My Skill Set</h2>
 
